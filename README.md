@@ -11,12 +11,12 @@ sudo apt install gcc make build-essential gdb-multiarch qemu-system-misc gcc-ris
 
 ### Clone XV6 Repository
 ```
-git clone https://github.com/JameelKaisar/xv6-riscv.git
+git clone https://github.com/LostParadise07/xv6-riscV
 ```
 
 ### Change Directory
 ```
-cd xv6-riscv
+cd xv6-riscV
 ```
 
 ### Compile XV6
