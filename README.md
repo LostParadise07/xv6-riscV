@@ -11,7 +11,7 @@ sudo apt install gcc make build-essential gdb-multiarch qemu-system-misc gcc-ris
 
 ### Clone XV6 Repository
 ```
-git clone https://github.com/LostParadise07/xv6-riscV
+git clone https://github.com/LostParadise07/xv6-riscV.git
 ```
 
 ### Change Directory
