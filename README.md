@@ -48,8 +48,8 @@ Salaam Robo! Kaifa Haluka?
 ```
 
 ```
-$ salaam Ajmi
-Salaam Ajmi! Kaifa Haluka?
+$ salaam Asrar
+Salaam Asrar! Kaifa Haluka?
 ```
 
 ### retint Command
